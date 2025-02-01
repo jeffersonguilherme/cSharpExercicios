@@ -1,0 +1,15 @@
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\05Desconto\obj\Debug\net8.0\05Desconto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\05Desconto\obj\Debug\net8.0\05Desconto.AssemblyInfoInputs.cache
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\05Desconto\obj\Debug\net8.0\05Desconto.AssemblyInfo.cs
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\05Desconto\obj\Debug\net8.0\05Desconto.csproj.CoreCompileInputs.cache
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\05Desconto\obj\Debug\net8.0\05Desconto.sourcelink.json
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\05Desconto\bin\Debug\net8.0\05Desconto.exe
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\05Desconto\bin\Debug\net8.0\05Desconto.deps.json
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\05Desconto\bin\Debug\net8.0\05Desconto.runtimeconfig.json
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\05Desconto\bin\Debug\net8.0\05Desconto.dll
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\05Desconto\bin\Debug\net8.0\05Desconto.pdb
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\05Desconto\obj\Debug\net8.0\05Desconto.dll
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\05Desconto\obj\Debug\net8.0\refint\05Desconto.dll
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\05Desconto\obj\Debug\net8.0\05Desconto.pdb
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\05Desconto\obj\Debug\net8.0\05Desconto.genruntimeconfig.cache
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\05Desconto\obj\Debug\net8.0\ref\05Desconto.dll
