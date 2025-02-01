@@ -1,0 +1,15 @@
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\10UsuarioValidacao\bin\Debug\net8.0\10UsuarioValidacao.exe
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\10UsuarioValidacao\bin\Debug\net8.0\10UsuarioValidacao.deps.json
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\10UsuarioValidacao\bin\Debug\net8.0\10UsuarioValidacao.runtimeconfig.json
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\10UsuarioValidacao\bin\Debug\net8.0\10UsuarioValidacao.dll
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\10UsuarioValidacao\bin\Debug\net8.0\10UsuarioValidacao.pdb
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\10UsuarioValidacao\obj\Debug\net8.0\10UsuarioValidacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\10UsuarioValidacao\obj\Debug\net8.0\10UsuarioValidacao.AssemblyInfoInputs.cache
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\10UsuarioValidacao\obj\Debug\net8.0\10UsuarioValidacao.AssemblyInfo.cs
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\10UsuarioValidacao\obj\Debug\net8.0\10UsuarioValidacao.csproj.CoreCompileInputs.cache
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\10UsuarioValidacao\obj\Debug\net8.0\10UsuarioValidacao.sourcelink.json
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\10UsuarioValidacao\obj\Debug\net8.0\10UsuarioValidacao.dll
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\10UsuarioValidacao\obj\Debug\net8.0\refint\10UsuarioValidacao.dll
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\10UsuarioValidacao\obj\Debug\net8.0\10UsuarioValidacao.pdb
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\10UsuarioValidacao\obj\Debug\net8.0\10UsuarioValidacao.genruntimeconfig.cache
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\10UsuarioValidacao\obj\Debug\net8.0\ref\10UsuarioValidacao.dll
