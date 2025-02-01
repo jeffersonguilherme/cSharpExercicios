@@ -1,0 +1,14 @@
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\01VerificarIdade\bin\Debug\net8.0\01VerificarIdade.exe
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\01VerificarIdade\bin\Debug\net8.0\01VerificarIdade.deps.json
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\01VerificarIdade\bin\Debug\net8.0\01VerificarIdade.runtimeconfig.json
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\01VerificarIdade\bin\Debug\net8.0\01VerificarIdade.dll
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\01VerificarIdade\bin\Debug\net8.0\01VerificarIdade.pdb
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\01VerificarIdade\obj\Debug\net8.0\01VerificarIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\01VerificarIdade\obj\Debug\net8.0\01VerificarIdade.AssemblyInfoInputs.cache
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\01VerificarIdade\obj\Debug\net8.0\01VerificarIdade.AssemblyInfo.cs
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\01VerificarIdade\obj\Debug\net8.0\01VerificarIdade.csproj.CoreCompileInputs.cache
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\01VerificarIdade\obj\Debug\net8.0\01VerificarIdade.dll
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\01VerificarIdade\obj\Debug\net8.0\refint\01VerificarIdade.dll
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\01VerificarIdade\obj\Debug\net8.0\01VerificarIdade.pdb
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\01VerificarIdade\obj\Debug\net8.0\01VerificarIdade.genruntimeconfig.cache
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\01VerificarIdade\obj\Debug\net8.0\ref\01VerificarIdade.dll

@@ -1,0 +1,14 @@
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\02PositivoNegativo\obj\Debug\net8.0\02PositivoNegativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\02PositivoNegativo\obj\Debug\net8.0\02PositivoNegativo.AssemblyInfoInputs.cache
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\02PositivoNegativo\obj\Debug\net8.0\02PositivoNegativo.AssemblyInfo.cs
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\02PositivoNegativo\obj\Debug\net8.0\02PositivoNegativo.csproj.CoreCompileInputs.cache
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\02PositivoNegativo\bin\Debug\net8.0\02PositivoNegativo.exe
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\02PositivoNegativo\bin\Debug\net8.0\02PositivoNegativo.deps.json
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\02PositivoNegativo\bin\Debug\net8.0\02PositivoNegativo.runtimeconfig.json
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\02PositivoNegativo\bin\Debug\net8.0\02PositivoNegativo.dll
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\02PositivoNegativo\bin\Debug\net8.0\02PositivoNegativo.pdb
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\02PositivoNegativo\obj\Debug\net8.0\02PositivoNegativo.dll
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\02PositivoNegativo\obj\Debug\net8.0\refint\02PositivoNegativo.dll
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\02PositivoNegativo\obj\Debug\net8.0\02PositivoNegativo.pdb
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\02PositivoNegativo\obj\Debug\net8.0\02PositivoNegativo.genruntimeconfig.cache
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\02PositivoNegativo\obj\Debug\net8.0\ref\02PositivoNegativo.dll

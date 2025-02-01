@@ -1,0 +1,14 @@
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\04NotaEscolar\bin\Debug\net8.0\04NotaEscolar.exe
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\04NotaEscolar\bin\Debug\net8.0\04NotaEscolar.deps.json
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\04NotaEscolar\bin\Debug\net8.0\04NotaEscolar.runtimeconfig.json
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\04NotaEscolar\bin\Debug\net8.0\04NotaEscolar.dll
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\04NotaEscolar\bin\Debug\net8.0\04NotaEscolar.pdb
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\04NotaEscolar\obj\Debug\net8.0\04NotaEscolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\04NotaEscolar\obj\Debug\net8.0\04NotaEscolar.AssemblyInfoInputs.cache
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\04NotaEscolar\obj\Debug\net8.0\04NotaEscolar.AssemblyInfo.cs
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\04NotaEscolar\obj\Debug\net8.0\04NotaEscolar.csproj.CoreCompileInputs.cache
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\04NotaEscolar\obj\Debug\net8.0\04NotaEscolar.dll
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\04NotaEscolar\obj\Debug\net8.0\refint\04NotaEscolar.dll
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\04NotaEscolar\obj\Debug\net8.0\04NotaEscolar.pdb
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\04NotaEscolar\obj\Debug\net8.0\04NotaEscolar.genruntimeconfig.cache
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\04NotaEscolar\obj\Debug\net8.0\ref\04NotaEscolar.dll

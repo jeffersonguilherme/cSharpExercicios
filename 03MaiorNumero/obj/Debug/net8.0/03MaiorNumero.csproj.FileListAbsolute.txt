@@ -1,0 +1,14 @@
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\03MaiorNumero\bin\Debug\net8.0\03MaiorNumero.exe
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\03MaiorNumero\bin\Debug\net8.0\03MaiorNumero.deps.json
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\03MaiorNumero\bin\Debug\net8.0\03MaiorNumero.runtimeconfig.json
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\03MaiorNumero\bin\Debug\net8.0\03MaiorNumero.dll
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\03MaiorNumero\bin\Debug\net8.0\03MaiorNumero.pdb
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\03MaiorNumero\obj\Debug\net8.0\03MaiorNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\03MaiorNumero\obj\Debug\net8.0\03MaiorNumero.AssemblyInfoInputs.cache
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\03MaiorNumero\obj\Debug\net8.0\03MaiorNumero.AssemblyInfo.cs
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\03MaiorNumero\obj\Debug\net8.0\03MaiorNumero.csproj.CoreCompileInputs.cache
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\03MaiorNumero\obj\Debug\net8.0\03MaiorNumero.dll
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\03MaiorNumero\obj\Debug\net8.0\refint\03MaiorNumero.dll
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\03MaiorNumero\obj\Debug\net8.0\03MaiorNumero.pdb
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\03MaiorNumero\obj\Debug\net8.0\03MaiorNumero.genruntimeconfig.cache
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\03MaiorNumero\obj\Debug\net8.0\ref\03MaiorNumero.dll
