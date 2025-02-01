@@ -1,0 +1,15 @@
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\07MenuOperacoes\obj\Debug\net8.0\07MenuOperacoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\07MenuOperacoes\obj\Debug\net8.0\07MenuOperacoes.AssemblyInfoInputs.cache
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\07MenuOperacoes\obj\Debug\net8.0\07MenuOperacoes.AssemblyInfo.cs
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\07MenuOperacoes\obj\Debug\net8.0\07MenuOperacoes.csproj.CoreCompileInputs.cache
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\07MenuOperacoes\obj\Debug\net8.0\07MenuOperacoes.sourcelink.json
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\07MenuOperacoes\bin\Debug\net8.0\07MenuOperacoes.exe
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\07MenuOperacoes\bin\Debug\net8.0\07MenuOperacoes.deps.json
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\07MenuOperacoes\bin\Debug\net8.0\07MenuOperacoes.runtimeconfig.json
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\07MenuOperacoes\bin\Debug\net8.0\07MenuOperacoes.dll
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\07MenuOperacoes\bin\Debug\net8.0\07MenuOperacoes.pdb
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\07MenuOperacoes\obj\Debug\net8.0\07MenuOperacoes.dll
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\07MenuOperacoes\obj\Debug\net8.0\refint\07MenuOperacoes.dll
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\07MenuOperacoes\obj\Debug\net8.0\07MenuOperacoes.pdb
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\07MenuOperacoes\obj\Debug\net8.0\07MenuOperacoes.genruntimeconfig.cache
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\07MenuOperacoes\obj\Debug\net8.0\ref\07MenuOperacoes.dll

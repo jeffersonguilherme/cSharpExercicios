@@ -1,0 +1,15 @@
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\09PedraPapelTesoura\obj\Debug\net8.0\09PedraPapelTesoura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\09PedraPapelTesoura\obj\Debug\net8.0\09PedraPapelTesoura.AssemblyInfoInputs.cache
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\09PedraPapelTesoura\obj\Debug\net8.0\09PedraPapelTesoura.AssemblyInfo.cs
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\09PedraPapelTesoura\obj\Debug\net8.0\09PedraPapelTesoura.csproj.CoreCompileInputs.cache
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\09PedraPapelTesoura\obj\Debug\net8.0\09PedraPapelTesoura.sourcelink.json
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\09PedraPapelTesoura\bin\Debug\net8.0\09PedraPapelTesoura.exe
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\09PedraPapelTesoura\bin\Debug\net8.0\09PedraPapelTesoura.deps.json
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\09PedraPapelTesoura\bin\Debug\net8.0\09PedraPapelTesoura.runtimeconfig.json
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\09PedraPapelTesoura\bin\Debug\net8.0\09PedraPapelTesoura.dll
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\09PedraPapelTesoura\bin\Debug\net8.0\09PedraPapelTesoura.pdb
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\09PedraPapelTesoura\obj\Debug\net8.0\09PedraPapelTesoura.dll
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\09PedraPapelTesoura\obj\Debug\net8.0\refint\09PedraPapelTesoura.dll
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\09PedraPapelTesoura\obj\Debug\net8.0\09PedraPapelTesoura.pdb
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\09PedraPapelTesoura\obj\Debug\net8.0\09PedraPapelTesoura.genruntimeconfig.cache
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\09PedraPapelTesoura\obj\Debug\net8.0\ref\09PedraPapelTesoura.dll

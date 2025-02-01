@@ -1,0 +1,15 @@
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\08DiadaSemana\obj\Debug\net8.0\08DiadaSemana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\08DiadaSemana\obj\Debug\net8.0\08DiadaSemana.AssemblyInfoInputs.cache
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\08DiadaSemana\obj\Debug\net8.0\08DiadaSemana.AssemblyInfo.cs
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\08DiadaSemana\obj\Debug\net8.0\08DiadaSemana.csproj.CoreCompileInputs.cache
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\08DiadaSemana\obj\Debug\net8.0\08DiadaSemana.sourcelink.json
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\08DiadaSemana\bin\Debug\net8.0\08DiadaSemana.exe
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\08DiadaSemana\bin\Debug\net8.0\08DiadaSemana.deps.json
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\08DiadaSemana\bin\Debug\net8.0\08DiadaSemana.runtimeconfig.json
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\08DiadaSemana\bin\Debug\net8.0\08DiadaSemana.dll
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\08DiadaSemana\bin\Debug\net8.0\08DiadaSemana.pdb
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\08DiadaSemana\obj\Debug\net8.0\08DiadaSemana.dll
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\08DiadaSemana\obj\Debug\net8.0\refint\08DiadaSemana.dll
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\08DiadaSemana\obj\Debug\net8.0\08DiadaSemana.pdb
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\08DiadaSemana\obj\Debug\net8.0\08DiadaSemana.genruntimeconfig.cache
+C:\Users\jefferson.silva\Documents\GitHub\cSharpExercicios\08DiadaSemana\obj\Debug\net8.0\ref\08DiadaSemana.dll
